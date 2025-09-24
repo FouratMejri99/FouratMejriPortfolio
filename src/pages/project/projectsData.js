@@ -23,8 +23,8 @@ const projects = [
     fullDescription:
       "Full-stack MERN solution for managing clients, leads, and sales data with analytics.",
     links: {
-      live: "https://your-crm-site.com",
-      github: "https://github.com/FouratMejri99/crm-dashboard",
+      live: "https://crm-marketplace-gamma.vercel.app/login",
+      github: "https://github.com/FouratMejri99/CrmMarketplace.git",
     },
   },
   {
@@ -34,8 +34,8 @@ const projects = [
     fullDescription:
       "Full-stack MERN app for football analytics, stats, and reports.",
     links: {
-      live: "https://your-football-site.com",
-      github: "https://github.com/FouratMejri99/football-analytics",
+      live: "https://xmatch.vercel.app/",
+      github: "https://github.com/FouratMejri99/xmatch",
     },
   },
   {
@@ -45,8 +45,8 @@ const projects = [
     fullDescription:
       "Full-stack MERN website with menu display, online reservations, and admin panel.",
     links: {
-      live: "https://your-restaurant-site.com",
-      github: "https://github.com/FouratMejri99/restaurant-website",
+      live: "https://restaurant-ag8a.vercel.app/",
+      github: "https://github.com/FouratMejri99/restaurant.git",
     },
   },
 ];
