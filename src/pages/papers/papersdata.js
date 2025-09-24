@@ -23,6 +23,28 @@ const papers = [
       github: "https://github.com/FouratMejri99/ml-paper",
     },
   },
+  {
+    id: 3,
+    title: "Machine Learning Paper on Predictive Analytics",
+    image: ai,
+    description:
+      "An in-depth study of predictive analytics using machine learning models to forecast trends and outcomes across various domains.",
+    links: {
+      live: "https://your-ml-paper-link.com",
+      github: "https://github.com/FouratMejri99/ml-paper",
+    },
+  },
+  {
+    id: 4,
+    title: "Machine Learning Paper on Predictive Analytics",
+    image: ai,
+    description:
+      "An in-depth study of predictive analytics using machine learning models to forecast trends and outcomes across various domains.",
+    links: {
+      live: "https://your-ml-paper-link.com",
+      github: "https://github.com/FouratMejri99/ml-paper",
+    },
+  },
 ];
 
 export default papers;
