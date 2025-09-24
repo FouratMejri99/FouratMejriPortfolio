@@ -12,8 +12,8 @@ const projects = [
     fullDescription:
       "Full-stack MERN app with product management, online payments, and user authentication.",
     links: {
-      live: "https://your-ecommerce-site.com",
-      github: "https://github.com/FouratMejri99/ecommerce",
+      live: "https://ecommerce-store-ten-wheat.vercel.app/",
+      github: "https://github.com/FouratMejri99/EcommerceStore.git",
     },
   },
   {
